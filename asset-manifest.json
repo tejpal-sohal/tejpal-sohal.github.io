@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.65546f40.css",
   "main.css.map": "static/css/main.65546f40.css.map",
-  "main.js": "static/js/main.013a7327.js",
-  "main.js.map": "static/js/main.013a7327.js.map",
+  "main.js": "static/js/main.105ac107.js",
+  "main.js.map": "static/js/main.105ac107.js.map",
   "static/media/1.jpg": "static/media/1.8f39a746.jpg",
   "static/media/2.jpg": "static/media/2.340082e0.jpg",
   "static/media/3.jpg": "static/media/3.104ed324.jpg",
@@ -53,7 +53,6 @@
   "static/media/roundicons.png": "static/media/roundicons.2bb329e5.png",
   "static/media/startup-framework-preview.png": "static/media/startup-framework-preview.f7d02031.png",
   "static/media/startup-framework.png": "static/media/startup-framework.89663274.png",
-  "static/media/summerPrev.png": "static/media/summerPrev.ab7eaf0d.png",
   "static/media/treehouse-preview.png": "static/media/treehouse-preview.7c7445ea.png",
   "static/media/treehouse.png": "static/media/treehouse.38742e4a.png"
 }
